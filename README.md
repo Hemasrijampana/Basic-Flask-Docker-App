@@ -135,6 +135,12 @@ In your browser, visit:
 http://<your-ec2-public-ip>:5000
 ```
 
+or test again in terminal:
+
+
+curl http://localhost:5000
+
+
 You should see:
 
 ```
