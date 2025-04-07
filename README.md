@@ -1,4 +1,4 @@
-Perfect, Hema! Here's a **clean, beginner-friendly step-by-step guide** you can paste directly into your `README.md` file on GitHub. It'll help others deploy a basic Dockerized Flask app on AWS EC2. I’ve added comments and markdown formatting to make it look 🔥 professional and helpful.
+
 
 ---
 
